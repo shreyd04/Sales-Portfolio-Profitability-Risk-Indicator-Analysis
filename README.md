@@ -167,5 +167,8 @@ Institutional fit: aligns with Jio Institute’s interest in AI for Digital Ecos
 ---
 For operational issues or to request feature definitions for model integration, open an issue or submit a Pull Request with a `features/` manifest and test vector.
 
+## StreamLit : 
+<img width="1435" height="694" alt="Screenshot 2026-05-13 at 3 05 15 PM" src="https://github.com/user-attachments/assets/72f6c62a-803a-4cbf-8d93-2683c76f836e" />
+
 Tableau Dashboard : 
 https://public.tableau.com/app/profile/shreya.dubey1172/viz/ProtfolioProfitabilityandRiskIndicatorDashboard/SuperStoreSalesDashboard
